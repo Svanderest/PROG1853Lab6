@@ -1,0 +1,9 @@
+C:\Users\sebas\Documents\Lab06-svanderest\LottoNumbers\bin\Debug\LottoNumbers.exe
+C:\Users\sebas\Documents\Lab06-svanderest\LottoNumbers\bin\Debug\LottoNumbers.pdb
+C:\Users\sebas\Documents\Lab06-svanderest\LottoNumbers\obj\Debug\LottoNumbers.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Documents\Lab06-svanderest\LottoNumbers\obj\Debug\LottoNumbers.FrmLotto.resources
+C:\Users\sebas\Documents\Lab06-svanderest\LottoNumbers\obj\Debug\LottoNumbers.Properties.Resources.resources
+C:\Users\sebas\Documents\Lab06-svanderest\LottoNumbers\obj\Debug\LottoNumbers.csproj.GenerateResource.Cache
+C:\Users\sebas\Documents\Lab06-svanderest\LottoNumbers\obj\Debug\LottoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\Lab06-svanderest\LottoNumbers\obj\Debug\LottoNumbers.exe
+C:\Users\sebas\Documents\Lab06-svanderest\LottoNumbers\obj\Debug\LottoNumbers.pdb
